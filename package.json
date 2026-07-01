@@ -1,0 +1,18 @@
+{
+  "name": "kapruka-gift-concierge",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Kapu — a full-screen AI gift-concierge for Kapruka, built on the Kapruka MCP server.",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.105.0",
+    "next": "^16.2.9",
+    "react": "^19.2.7",
+    "react-dom": "^19.2.7"
+  }
+}
