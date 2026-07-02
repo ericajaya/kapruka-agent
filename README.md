@@ -11,6 +11,7 @@ Author: Erica Jayasundera
 (BSc Hons in Software Engineering, MSc in Information Security , Phd Candidate )
 
 Repository: github.com/ericajaya/kapruka_gift_concierge
+
 Code : 
 https://kapruka-agentlive-git-main-mind-view-ai.vercel.app/
 Document date: 30 June 2026
