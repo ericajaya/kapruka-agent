@@ -21,7 +21,7 @@ https://kapruka-agentlive-git-main-mind-view-ai.vercel.app/
 Document date: 30 June 2026
 
 For the complete documentation View
-[View Document](document.pdf)
+[View Document](Kapu_Technical_Architecture.pdf)
 
 
 This project is proprietary and confidential. All rights reserved.
