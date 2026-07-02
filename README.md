@@ -12,7 +12,7 @@ Author: Erica Jayasundera
 
 Repository: github.com/ericajaya/kapruka_gift_concierge
 
-Document date: 1 July 2026
+Document date: 30 June 2026
 
 # **1\. Executive Summary**
 
