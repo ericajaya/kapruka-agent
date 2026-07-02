@@ -9,6 +9,9 @@ Prepared for: Kapruka Agent Challenge 2026 submission
 Author: Erica Jayasundera
 
 (BSc Hons in Software Engineering, MSc in Information Security , MSc in AI (Reading) ,Phd Candidate )
+
+
+
 This is an extension to the Zuu Crew AI Project on Kapruka Gift concierge (MiniProject 03 on course AI Engineer Essentials)
 
 Repository: github.com/ericajaya/kapruka_gift_concierge
